@@ -18,7 +18,7 @@
  <img src="https://skillicons.dev/icons?i=nodejs,typescript,html,css,vue,react,lit,nuxtjs,pinia,pnpm,rollupjs,sass,tailwind,vite,vitest,vuetify,yarn,mongodb,jest,redis,java,kotlin,python,jenkins&theme=dark&perline=8" alt="Gweesin Chan's Skills" />
 </p>
 
-_and so on... I✏️_
+<p align="center"><samp>and so on... I✏️</samp></p>
 
 ## ✨ _Special Status_ ✨
 
