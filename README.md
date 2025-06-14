@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [SHINE Technology](https://www.shinetechnology.com/) *(2021.11 - now)*, a traditional company that provides software services for the securities industry.
+- 🔭 I’m currently working on [SHINE Technology](https://www.shinetechnology.com/) *(2021.11 - 2025.6)*, a traditional company that provides software services for the securities industry.
 
 ### Skills
 
